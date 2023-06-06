@@ -1,4 +1,4 @@
-# Text-Classification
+# Financial Twitter Tweets
 
 Scientists and practitioners alike are increasingly glancing at online investment forums. Thereby,
 different opinions shared with microblog messages seem to impact the decisions of capital
