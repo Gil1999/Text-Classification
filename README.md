@@ -6,7 +6,7 @@ market traders and investors. That messages on Twitter may play an essential rol
 Financial industry is underlined by the globally established Financial information service provider
 Bloomberg, who previously integrated live tweets on its platform in 2013.
 
-In this seminar paper I tired to answer two main research questions regarding Financial tweets:
+In my seminar paper I tried to answer two main research questions regarding Financial tweets:
   1. How to extract relevant information from Financial Twitter tweets regarding companies
   of the Dow Jones Industrial Average (DJIA) index?
   2. How well do multinomial Naive Bayes classifiers detect whether a tweet contains relevant
