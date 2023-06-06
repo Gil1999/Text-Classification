@@ -1,7 +1,7 @@
 # Text-Classification
 
 Scientists and practitioners alike are increasingly glancing at online investment forums. Thereby,
-di￿erent opinions shared with microblog messages seem to impact the decisions of capital
+different opinions shared with microblog messages seem to impact the decisions of capital
 market traders and investors. That messages on Twitter may play an essential role for the
 ￿nancial industry is underlined by the globally established Financial information service provider
 Bloomberg, who previously integrated live tweets on its platform in 2013.
